@@ -1,4 +1,4 @@
-# test
-test repo
+# Test
+Test repo.
 
-hello world!
+Hello World!
